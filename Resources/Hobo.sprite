@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<sprite>
+    <image frameWidth="128" frameHeight="128" fileName="Resources/hobo.png" />
+    <animations>
+        <animation name="idle" frames="0,0" speed="0.1" />
+        <animation name="lightPunch" frames="0,1,2,3,0" speed="0.1" />
+    </animations>
+</sprite>
